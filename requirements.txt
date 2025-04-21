@@ -1,0 +1,6 @@
+1.Python 3.x
+
+2.Biopython
+
+You can install the required library with:
+-------->pip install biopython
